@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on PaulShovan</title>
-    <link>paulshovan.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on PaulShovan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 Apr 2020 14:09:43 +0600</lastBuildDate>
     
-	<atom:link href="paulshovan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Second Post</title>
-      <link>paulshovan.github.io/post/my-second-post/</link>
+      <link>/post/my-second-post/</link>
       <pubDate>Fri, 10 Apr 2020 14:09:43 +0600</pubDate>
       
-      <guid>paulshovan.github.io/post/my-second-post/</guid>
+      <guid>/post/my-second-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>paulshovan.github.io/post/first-post/</link>
+      <link>/post/first-post/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>paulshovan.github.io/post/first-post/</guid>
+      <guid>/post/first-post/</guid>
       <description></description>
     </item>
     
