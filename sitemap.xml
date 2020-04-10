@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/post/my-second-post/</loc>
+    <loc>paulshovan.github.io/post/my-second-post/</loc>
     <lastmod>2020-04-10T14:09:43+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>paulshovan.github.io/post/</loc>
     <lastmod>2020-04-10T14:09:43+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>paulshovan.github.io/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/archives/</loc>
+    <loc>paulshovan.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/first-post/</loc>
+    <loc>paulshovan.github.io/post/first-post/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>paulshovan.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>paulshovan.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>paulshovan.github.io/tags/</loc>
   </url>
   
 </urlset>
